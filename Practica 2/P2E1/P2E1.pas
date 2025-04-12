@@ -9,6 +9,7 @@ comisiones.
 Realice un procedimiento que reciba el archivo anteriormente descrito y lo compacte. En 
 consecuencia, deberá generar un nuevo archivo en el cual, cada empleado aparezca una 
 única vez con el valor total de sus comisiones. 
+
 NOTA: No se conoce a priori la cantidad de empleados. Además, el archivo debe ser 
 recorrido una única vez. 
 
