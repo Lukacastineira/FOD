@@ -1,0 +1,9 @@
+2 - Arboles
+Dado el siguiente árbol B de orden 4 y con política de resolución de underflows derecha o
+izquierda, realice las siguientes operaciones indicando lecturas y escrituras en el orden de
+ocurrencia. Además, debe describir detalladamente lo que sucede en cada operación. +410,
+-200, -500, -100
+
+2: 0 (100) 4 (300) 1 (600) 3
+
+0: (10) 4: (200) 1: (400) (450) (500) 3: (700)

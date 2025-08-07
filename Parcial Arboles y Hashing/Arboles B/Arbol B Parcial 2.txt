@@ -1,0 +1,12 @@
+Arboles
+Dado un árbol B de orden 5 y con política izquierda, para cada operación dada:
+a. Dibuje el árbol resultante
+b. Explique las decisiones tomadas
+c. Escriba las lecturas y escrituras
+Operaciones: -30, +3600, -300, -2100, -2400
+nodo 2: 4 i 0(300)3(900)1(1350)5(1800)4
+nodo 0: 1 h(30)
+nodo 3: 2 h(600)(750)
+nodo 1: 2 h(1050)(1200)
+nodo 5: 2 h(1500)(1650)
+nodo 4: 4 h(2100)(2400)(2700)(3000)

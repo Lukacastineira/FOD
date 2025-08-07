@@ -1,0 +1,21 @@
+ Codigo: -1 
+ Genero: erg 
+ Novela: wef 
+ Duracion: 6 t 
+ Director: erg 
+ Precio:  4.5000000000000000E+001 
+
+ Codigo: 0 
+ Genero:  
+ Novela:  
+ Duracion:  
+ Director:  
+ Precio:  0.0000000000000000E+000 
+
+ Codigo: 2 
+ Genero: pasion 
+ Novela: pasion de gavilanes 
+ Duracion: 8 t 
+ Director: rtgrtg 
+ Precio:  3.3300000000000000E+002 
+

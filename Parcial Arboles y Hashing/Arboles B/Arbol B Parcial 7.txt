@@ -1,0 +1,14 @@
+2 -Árboles 
+Dado un ábol B de orden 4 y con política derecha para la resolución de underflow, para cada operación dada debe: 
+
+a. Dibujar el árbol resultante. 
+b. Explicar las decisiones tomadas. 
+c. Indicar las lecturas y escrituras en el orden de ocurrencia. 
+
+Las operaciones a realizar son: +260, -310, -490, -60 
+
+Arbol inicial: 
+
+2: 0 (100) 1(310) 4 (600) 3 
+0: (60) 
+1:(160)(210)(240) 4: (420E490) 3: (800) 
